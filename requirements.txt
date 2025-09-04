@@ -14,7 +14,7 @@ requests==2.32.3
 urllib3 # required by requests, used in imports: make sure it's always available
 packaging==23.2
 python-dotenv==1.0.0
-setuptools==69.0.3
+setuptools==78.1.1
 
 # Community
 websockets
